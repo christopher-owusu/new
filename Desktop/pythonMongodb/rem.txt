@@ -1,4 +1,0 @@
-{"_id": 0, "name": "tim", "score": 5} 
-{"_id": 0, "name": "tim", "score": 4} 
-{"_id": 0, "name": "tim", "score": 3} 
-{"_id": 0, "name": "tim", "score": 2} 
